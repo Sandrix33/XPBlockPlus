@@ -1,9 +1,0 @@
-name: XPBlockPlus
-main: XPBlockPlus.Sandrix.Dev.Main
-author: Sandrix33
-version: 0.3
-api-version: 1.16
-description: Plugin for custom xp
-commands:
-  xpp:
-    description: Commands for reload config 
